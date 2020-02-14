@@ -11,4 +11,4 @@ The intended use-case is to have a system spin up streaming server infrastructur
 
 ### Usage
 
-If you intend to use this, you'll likely do some adjustments to the configurations of the crated resources (it currently does audio-only HLS with a biased configuration for adaptive streaming and available bitrates)
+If you intend to use this, you'll likely want to do some adjustments to the configurations of the created resources (it currently does audio-only HLS with a biased configuration for adaptive streaming and available bitrates)
